@@ -1,7 +1,7 @@
 <layout name="root">
     <row>
-        <button type="voicerec" icon="voice_32x32" />
-        <button type="picture" icon="camera_32x32" />
-        <button type="textnote" icon="text_32x32" />
+        <button type="voicerec" icon="pollution_icons/voice_32x32" />
+        <button type="picture" icon="pollution_icons/camera_32x32" />
+        <button type="textnote" icon="pollution_icons/text_32x32" />
     </row>
 </layout>
