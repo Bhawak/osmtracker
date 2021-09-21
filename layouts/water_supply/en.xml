@@ -1,7 +1,0 @@
-<layout name="root">
-    <row>
-        <button type="voicerec" icon="water_supply_icons/voice_32x32" />
-        <button type="picture" icon="water_supply_icons/camera_32x32" />
-        <button type="textnote" icon="water_supply_icons/text_32x32" />
-    </row>
-</layout>

@@ -1,7 +1,0 @@
-<layout name="root">
-    <row>
-        <button type="voicerec" icon="road_icons/voice_32x32" />
-        <button type="picture" icon="road_icons/camera_32x32" />
-        <button type="textnote" icon="road_icons/text_32x32" />
-    </row>
-</layout>
