@@ -1,9 +1,9 @@
 <layouts>
 <layout name="root">
     <row>
-        <button type="voicerec" icon="irrigation_icons/voice_32x32" />
+        <button type="voicerec" label="Record a voice note" icon="irrigation_icons/voice_32x32" />
         <button type="picture" icon="irrigation_icons/camera_32x32" />
-        <button type="textnote" label="Label" icon="irrigation_icons/text_32x32" />
+        <button type="textnote" icon="irrigation_icons/text_32x32" />
     </row>
     <row>
         <button type="tag" label="River" icon="irrigation_icons/003-river.png"/>
@@ -17,8 +17,13 @@
     </row>
 </layout>
 <layout name="bridge">
+    <row>
+        <button type="voicerec" icon="voice_32x32" />
+        <button type="picture" icon="camera_32x32" />
+        <button type="textnote" icon="text_32x32" />
+    </row>
 <row>
-    <button type="textnote" label="Bridge Name" icon="text_32x32" />
+    <button type="tag" label="Metallic"/>
     <button type="tag" label="Concrete"/>
     <button type="tag" label="Wooden" />
 </row>
