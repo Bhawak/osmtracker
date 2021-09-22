@@ -1,0 +1,17 @@
+<layout name="root">
+    <row>
+        <button type="voicerec" icon="irrigation_icons/voice_32x32" />
+        <button type="picture" icon="irrigation_icons/camera_32x32" />
+        <button type="textnote" icon="irrigation_icons/text_32x32" />
+    </row>
+    <row>
+        <button type="tag" label="River" icon="irrigation_icons/river.png"/>
+        <button type="tag" label="Pond" icon="irrigation_icons/pond.png"/>
+        <button type="tag" label="Dam" icon="irrigation_icons/dam.png"/>
+    </row>
+    <row>
+        <button type="tag" label="Bridge" icon="bridge/new_water_supply.png"/>
+        <button type="tag" label="Sprinklers" icon="sprinklers/used_water_supply.png"/>
+        <button type="tag" label="Watering Can" icon="watering-can/contaminated_water_supply.png"/>
+    </row>
+</layout>
