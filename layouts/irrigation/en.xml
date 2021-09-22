@@ -5,13 +5,13 @@
         <button type="textnote" icon="irrigation_icons/text_32x32" />
     </row>
     <row>
-        <button type="tag" label="River" icon="irrigation_icons/river.png"/>
-        <button type="tag" label="Pond" icon="irrigation_icons/pond.png"/>
-        <button type="tag" label="Dam" icon="irrigation_icons/dam.png"/>
+        <button type="tag" label="River" icon="irrigation_icons/003-river.png"/>
+        <button type="tag" label="Pond" icon="irrigation_icons/004-pond.png"/>
+        <button type="tag" label="Dam" icon="irrigation_icons/006-dam.png"/>
     </row>
     <row>
-        <button type="tag" label="Bridge" icon="bridge/new_water_supply.png"/>
-        <button type="tag" label="Sprinklers" icon="sprinklers/used_water_supply.png"/>
-        <button type="tag" label="Watering Can" icon="watering-can/contaminated_water_supply.png"/>
+        <button type="tag" label="Bridge" icon="irrigation_icons/008-bridge.png"/>
+        <button type="tag" label="Sprinklers" icon="irrigation_icons/001-sprinklers.png"/>
+        <button type="tag" label="Watering Can" icon="irrigation_icons/002-watering-can.png"/>
     </row>
 </layout>
