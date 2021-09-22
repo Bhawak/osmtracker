@@ -6,7 +6,7 @@
     </row>
     <row>
         <button type="tag" label="River" icon="irrigation_icons/003-river.png"/>
-        <button type="tag" label="Pond" icon="irrigation_icons/004-pond.png"/>
+        <button type="tag" label="Pond" icon="irrigation_icons/005-pond-1.png"/>
         <button type="tag" label="Dam" icon="irrigation_icons/006-dam.png"/>
     </row>
     <row>
